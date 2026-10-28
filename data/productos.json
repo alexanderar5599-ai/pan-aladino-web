@@ -8,7 +8,8 @@
     "descripcion": "Pan de hamburguesa; presentación de 12 unidades.",
     "estado": "Consultar disponibilidad",
     "cotizable": true,
-    "verificado": true
+    "verificado": true,
+    "imagen": "assets/productos/hamburguesa-12.webp"
   },
   {
     "id": "croissant-6",
@@ -19,7 +20,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/croissant-6.webp"
   },
   {
     "id": "croissant-grande-6",
@@ -30,7 +32,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/croissant-grande-6.webp"
   },
   {
     "id": "bagels-6",
@@ -41,7 +44,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/bagels-6.webp"
   },
   {
     "id": "bollo-20",
@@ -52,7 +56,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/bollo-20.webp"
   },
   {
     "id": "english-muffins-6",
@@ -63,7 +68,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/english-muffins-6.webp"
   },
   {
     "id": "flauta-4onz-5",
@@ -74,7 +80,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/flauta-4onz-5.webp"
   },
   {
     "id": "flauta-economica-6",
@@ -85,7 +92,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/flauta-economica-6.webp"
   },
   {
     "id": "hot-dog-12",
@@ -96,7 +104,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/hot-dog-12.webp"
   },
   {
     "id": "palitos",
@@ -107,7 +116,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/palitos.webp"
   },
   {
     "id": "pan-pollo-5",
@@ -129,7 +139,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/torta-ovalada-5.webp"
   },
   {
     "id": "boca-larga-20",
@@ -140,7 +151,8 @@
     "estado": "Fabricado por pedido (mínimo 2 días de anticipación)",
     "bajoPedido": true,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/boca-larga-20.webp"
   },
   {
     "id": "boca-redonda-tradicional-25",
@@ -151,7 +163,8 @@
     "estado": "Fabricado por pedido (mínimo 2 días de anticipación)",
     "bajoPedido": true,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/boca-redonda-tradicional-25.webp"
   },
   {
     "id": "boca-redonda-ajonjoli-25",
@@ -173,7 +186,8 @@
     "estado": "Fabricado por pedido (mínimo 2 días de anticipación)",
     "bajoPedido": true,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/mini-bagels.webp"
   },
   {
     "id": "mini-croissant",
@@ -184,7 +198,8 @@
     "estado": "Fabricado por pedido (mínimo 2 días de anticipación)",
     "bajoPedido": true,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/mini-croissant.webp"
   },
   {
     "id": "gusanito-10",
@@ -217,7 +232,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/novia-10.webp"
   },
   {
     "id": "novia-12",
@@ -228,7 +244,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/novia-12.webp"
   },
   {
     "id": "pastel-10",
@@ -239,7 +256,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/pastel-10.webp"
   },
   {
     "id": "pastel-12",
@@ -250,7 +268,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/pastel-12.webp"
   },
   {
     "id": "pichardin-10",
@@ -261,7 +280,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/pichardin-10.webp"
   },
   {
     "id": "pichardin-12",
@@ -272,6 +292,7 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/pichardin-12.webp"
   }
 ]
