@@ -1,0 +1,13 @@
+[
+  {
+    "id": "hamburguesa-12",
+    "nombre": "Pan de hamburguesa",
+    "categoria": "Hamburguesa",
+    "presentacion": "Paquete de 12 unidades",
+    "precioCentavos": 186,
+    "descripcion": "Pan de hamburguesa; presentación de 12 unidades.",
+    "estado": "Consultar disponibilidad",
+    "cotizable": true,
+    "verificado": true
+  }
+]
