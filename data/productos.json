@@ -33,7 +33,7 @@
     "bajoPedido": false,
     "verificado": true,
     "cotizable": true,
-    "imagen": "assets/productos/croissant-grande-6.webp"
+    "imagen": "productos a cambiar/croissant-grande-6(1).webp"
   },
   {
     "id": "bagels-6",
@@ -80,7 +80,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "productos a cambiar/flauta-4onz-5(1).webp"
   },
   {
     "id": "flauta-economica-6",
@@ -127,7 +128,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "productos a cambiar/pan-pollo-5.webp"
   },
   {
     "id": "torta-ovalada-5",
@@ -139,7 +141,7 @@
     "bajoPedido": false,
     "verificado": true,
     "cotizable": true,
-    "imagen": "assets/productos/torta-ovalada-5.webp"
+    "imagen": "productos a cambiar/torta-ovalada-5.webp"
   },
   {
     "id": "boca-larga-20",
@@ -209,7 +211,8 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "productos a cambiar/gusanito-12.webp"
   },
   {
     "id": "novia-12",
@@ -221,7 +224,7 @@
     "bajoPedido": false,
     "verificado": true,
     "cotizable": true,
-    "imagen": "assets/productos/novia-12.webp"
+    "imagen": "productos a cambiar/novia-12.webp"
   },
   {
     "id": "pastel-12",
