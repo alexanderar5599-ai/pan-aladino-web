@@ -80,8 +80,7 @@
     "estado": "Consultar disponibilidad",
     "bajoPedido": false,
     "verificado": true,
-    "cotizable": true,
-    "imagen": "assets/productos/flauta-4onz-5.webp"
+    "cotizable": true
   },
   {
     "id": "flauta-economica-6",
