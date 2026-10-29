@@ -202,17 +202,6 @@
     "imagen": "assets/productos/mini-croissant.webp"
   },
   {
-    "id": "gusanito-10",
-    "nombre": "Gusanito",
-    "categoria": "Pan dulce",
-    "presentacion": "Paquete de 10 unidades",
-    "precioCentavos": 250,
-    "estado": "Consultar disponibilidad",
-    "bajoPedido": false,
-    "verificado": true,
-    "cotizable": true
-  },
-  {
     "id": "gusanito-12",
     "nombre": "Gusanito",
     "categoria": "Pan dulce",
@@ -222,18 +211,6 @@
     "bajoPedido": false,
     "verificado": true,
     "cotizable": true
-  },
-  {
-    "id": "novia-10",
-    "nombre": "Novia",
-    "categoria": "Pan dulce",
-    "presentacion": "Paquete de 10 unidades",
-    "precioCentavos": 200,
-    "estado": "Consultar disponibilidad",
-    "bajoPedido": false,
-    "verificado": true,
-    "cotizable": true,
-    "imagen": "assets/productos/novia-10.webp"
   },
   {
     "id": "novia-12",
@@ -248,18 +225,6 @@
     "imagen": "assets/productos/novia-12.webp"
   },
   {
-    "id": "pastel-10",
-    "nombre": "Pastel",
-    "categoria": "Pan dulce",
-    "presentacion": "Paquete de 10 unidades",
-    "precioCentavos": 200,
-    "estado": "Consultar disponibilidad",
-    "bajoPedido": false,
-    "verificado": true,
-    "cotizable": true,
-    "imagen": "assets/productos/pastel-10.webp"
-  },
-  {
     "id": "pastel-12",
     "nombre": "Pastel",
     "categoria": "Pan dulce",
@@ -270,18 +235,6 @@
     "verificado": true,
     "cotizable": true,
     "imagen": "assets/productos/pastel-12.webp"
-  },
-  {
-    "id": "pichardin-10",
-    "nombre": "Pichardín",
-    "categoria": "Pan dulce",
-    "presentacion": "Paquete de 10 unidades",
-    "precioCentavos": 200,
-    "estado": "Consultar disponibilidad",
-    "bajoPedido": false,
-    "verificado": true,
-    "cotizable": true,
-    "imagen": "assets/productos/pichardin-10.webp"
   },
   {
     "id": "pichardin-12",
