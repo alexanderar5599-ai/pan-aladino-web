@@ -176,7 +176,8 @@
     "estado": "Fabricado por pedido (mínimo 2 días de anticipación)",
     "bajoPedido": true,
     "verificado": true,
-    "cotizable": true
+    "cotizable": true,
+    "imagen": "assets/productos/productos/boca-redonda-ajonjoli-25.webp"
   },
   {
     "id": "mini-bagels",
